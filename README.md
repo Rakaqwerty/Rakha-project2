@@ -1,5 +1,4 @@
 # Rakha-project2
-<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8" />
@@ -35,7 +34,6 @@
   </style>
 </head>
 <body>
-  <h1>Rakha project 2</h1>
   <div class="card">
     <h2>PAYAKUMBUH CYBER</h2>
     <p>Kamii berasal dari rasa penasaran, bergerak untuk pelestarian digital...</p>
