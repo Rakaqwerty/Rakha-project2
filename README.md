@@ -38,7 +38,7 @@
   <h1>Rakha project 2</h1>
   <div class="card">
     <h2>PAYAKUMBUH CYBER</h2>
-    <p>Kami berasal dari rasa penasaran, bergerak untuk pelestarian digital...</p>
+    <p>Kamii berasal dari rasa penasaran, bergerak untuk pelestarian digital...</p>
   </div>
 
   <h2>SKILL HACKING</h2>
